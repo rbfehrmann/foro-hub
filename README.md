@@ -1,6 +1,6 @@
 # 🔗 Foro Hub API
 
-Foro Hub API es una aplicación backend construida con Spring Boot que permite a los usuarios interactuar en un foro mediante la creación, lectura, actualización y eliminación de tópicos (CRUD). Esta API está diseñada para facilitar el aprendizaje y la colaboración entre estudiantes, profesores y moderadores. 🌐
+Foro Hub API es una aplicación backend construida con Spring Boot que permite a los usuarios interactuar en un foro mediante la creación, lectura, actualización y eliminación de tópicos (CRUD). Esta API está diseñada para facilitar el aprendizaje y la colaboración entre estudiantes, profesores y moderadores. Cabe mencionar que corresponde a un desafío de Alura Latam de una estudiante en formación de backend. 🌐
 
 ---
 
